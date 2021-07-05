@@ -49,4 +49,4 @@ client.on('message', message =>{
 
 
 
-client.login('ODUzMzQzNzM2NDA2NzM2OTI2.YMUASQ.nTHnbGSoOs2iVb2Mkk203PNKhhU');
+client.login('Put your discord bot token here');
